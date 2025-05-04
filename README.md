@@ -61,6 +61,7 @@ Your default browser will open and refresh automatically as you edit.
 ## 📸 Screenshot
 
 ![Website Demo](images/index.png)
+
 ![Website Demo](images/work.png)
 
 ---
